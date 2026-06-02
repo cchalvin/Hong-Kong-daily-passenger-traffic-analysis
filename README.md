@@ -1,4 +1,4 @@
-This report is an analysis on Hong Kong Daily Passenger Traffic, from https://data.gov.hk/en-data/dataset/hk-immd-set5-statistics-daily-passenger-traffic to download the full data, up to 2026-05-18.
+This report is an analysis on Hong Kong Daily Passenger Traffic, from https://data.gov.hk/en-data/dataset/hk-immd-set5-statistics-daily-passenger-traffic to download the full data, up to 2026-05-18. Or you can directly download my updated csv as well.
 
 The report consists of 4 main parts: 
 Clustering the control point; 
