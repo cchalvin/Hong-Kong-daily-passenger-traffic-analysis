@@ -1,3 +1,6 @@
+# Honk Kong Daily Passenger Traffic Analysis
+The report link is here: https://cchalvin.github.io/Hong-Kong-daily-passenger-traffic-analysis/
+
 This report is an analysis on Hong Kong Daily Passenger Traffic, from https://data.gov.hk/en-data/dataset/hk-immd-set5-statistics-daily-passenger-traffic to download the full data, up to 2026-05-18. Or you can directly download my updated csv as well.
 
 The report consists of 4 main parts: 
